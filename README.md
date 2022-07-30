@@ -1,3 +1,3 @@
-# git_test
+# Odin
 My first GitHub repo!
 Hello, Odin!
